@@ -1,0 +1,1 @@
+Placer les fichiers .docx et .odt dans ce répertoire pour traitement
